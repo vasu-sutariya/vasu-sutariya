@@ -21,7 +21,6 @@
 
 - MSc in Robotics from **Cranfield University**.
 
-💼 **Key Skills:**
 
 - **Programming Languages**: 
 
