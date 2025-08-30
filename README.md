@@ -56,7 +56,7 @@
 
 
 - **Areas of Interest**: 
-Computer Vision, Autonomous Systems, Human-Machine Interfacing, Game Development, Mobile Robotics
+ Autonomous Systems, Human-Machine Interfacing, Game Development, Mobile Robotics
 
 👯 **I'm looking to collaborate on:**
 
