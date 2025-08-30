@@ -32,10 +32,10 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=mathworks)
 
 
-- **Robotics & Simulation**: 
+- **Robotics & Simulation**:
+  
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![ROS2](https://img.shields.io/badge/-ROS2-black?style=flat-square&logo=ros)
-
 ![Isaac Sim](https://img.shields.io/badge/-Isaac%20Sim-black?style=flat-square&logo=nvidia)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)
