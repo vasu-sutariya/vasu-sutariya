@@ -10,7 +10,7 @@
 
 - [**URALIGHT**](https://github.com/vasu-sutariya/Uralight) - A Unity-based software for manipulator robots that enables environment building, motion planning, simulation, and customizable user interfaces.
 - [**Mobile Manipulator for AIRBUS**](https://github.com/vasu-sutariya/Mobile-manipulator-with-automated-tool-changer-for-a-manufacturing-process-automation) - Mobile manipulator with automated tool changer for a manufacturing process automation at AIRBUS facility.
-- [**ARMouse**](https://github.com/vasu-sutariya/ARMouse) - An app that tracks phone movement using AR and IMU, and uses that movement to use it as mouse.
+- [**ARMouse**](https://github.com/vasu-sutariya/ARMouse) - An app that tracks phone movement using AR and IMU, and uses that movement to use it as Robot controller.
 - [**J-0015: Portfolio Guide**](https://github.com/vasu-sutariya/vatsal-sutariya) - A robotics‑themed portfolio site featuring a canvas‑rendered robot guide that performs real‑time A* path planning, follows your cursor/touch, and avoids obstacles (from the live DOM layout).
 
 ## About me
